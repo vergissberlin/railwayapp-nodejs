@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/vergissberlin/railway/main/docs/railway-template.schema.json",
+  "schemaVersion": 1,
+  "project": "railwayapp-nodejs",
+  "repo": "vergissberlin/railwayapp-nodejs",
+  "displayName": "Node.js",
+  "publishedCode": "nodejs-vb",
+  "image": "https://raw.githubusercontent.com/vergissberlin/railwayapp-nodejs/main/template-header.svg",
+  "description": "Minimal Node.js 20 HTTP service on Railway with health endpoint.",
+  "workspaceAutomation": false
+}
