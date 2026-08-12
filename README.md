@@ -6,6 +6,14 @@ Minimal Node.js 20 HTTP service for Railway (Dockerfile deploy).
 
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/nodejs-vb?referralCode=2_sIT9&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
+## 🏗️ Architecture
+
+```mermaid
+flowchart LR
+    Client(["🌐 Client"]) -->|HTTPS| Domain["Railway Public Domain"]
+    Domain -->|"$PORT"| App["Container\nnode:20-alpine\n(server.mjs)"]
+```
+
 ## Environment
 
 | Variable | Description |
