@@ -5,7 +5,8 @@
   "repo": "vergissberlin/railwayapp-nodejs",
   "displayName": "Node.js",
   "publishedCode": "nodejs-vb",
-  "image": "https://raw.githubusercontent.com/vergissberlin/railwayapp-nodejs/main/template-header.svg",
+  "image": "https://raw.githubusercontent.com/vergissberlin/railwayapp-nodejs/main/logo-nodejs.svg",
   "description": "Minimal Node.js 20 HTTP service on Railway with health endpoint.",
-  "workspaceAutomation": false
+  "workspaceAutomation": false,
+  "logoFile": "logo-nodejs.svg"
 }
