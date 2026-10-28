@@ -31,6 +31,10 @@ docker build -t railwayapp-nodejs .
 docker run --rm -p 3000:3000 railwayapp-nodejs
 ```
 
+## 💬 Support
+
+Questions or feedback? Visit the [template forum on Railway Central Station](https://station.railway.com/templates/node-js-23199ae7).
+
 <!-- footer -->
 ---
 
