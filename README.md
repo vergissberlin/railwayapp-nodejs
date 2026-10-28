@@ -4,7 +4,7 @@
 
 Minimal Node.js 20 HTTP service for Railway (Dockerfile deploy).
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/nodejs-vb?referralCode=2_sIT9&utm_medium=integration&utm_source=template&utm_campaign=generic)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/nodejs-2?referralCode=2_sIT9&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
 ## 🏗️ Architecture
 
