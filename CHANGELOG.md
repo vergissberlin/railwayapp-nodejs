@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.1.2](https://github.com/vergissberlin/railwayapp-nodejs/compare/v0.1.1...v0.1.2) (2026-10-28)
+
+
+### Documentation
+
+* fix Railway deploy button link and add template forum link ([#14](https://github.com/vergissberlin/railwayapp-nodejs/issues/14)) ([dd1886e](https://github.com/vergissberlin/railwayapp-nodejs/commit/dd1886e26c7e48db5018df7f816c2e276942a46e))
+* refresh shared template footer badges ([d4849fc](https://github.com/vergissberlin/railwayapp-nodejs/commit/d4849fceece7477f6cf6d37528cf11fc48e847b6))
+
+
+### Chores
+
+* **deps:** update node.js to v26 ([#13](https://github.com/vergissberlin/railwayapp-nodejs/issues/13)) ([e653ea0](https://github.com/vergissberlin/railwayapp-nodejs/commit/e653ea052c8bedcce30a90e71084dc2b435a31f3))
+
 ## [0.1.1](https://github.com/vergissberlin/railwayapp-nodejs/compare/v0.1.0...v0.1.1) (2026-08-17)
 
 
